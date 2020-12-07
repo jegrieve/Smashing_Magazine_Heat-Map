@@ -3,3 +3,40 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+#navbar {
+    height: 104px;
+    background-color: grey;
+}
+
+#newest-articles {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    height: 1050px;
+}
+
+
+.main {
+    width: 800px;
+}
+
+.side {
+    height: 800px;
+    width: 400px;
+    background-color: black;
+}
+
+.main-article {
+    background-color: grey;
+    height: 500px;
+}
+
+.sub-article {
+    background-color: grey;
+    margin-top: 50px;
+    height: 200px;
+}
+
+
