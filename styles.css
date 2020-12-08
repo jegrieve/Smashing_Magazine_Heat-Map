@@ -3,7 +3,8 @@
     padding: 0;
     box-sizing: border-box;
     color: white;
-    font-size: 25px;
+    font-size: 20px;
+    font-family: 'Chango', cursive, "sans-seriff";
 }
 
 
@@ -116,4 +117,8 @@
     background-color: grey;
 }
 
+.accented {
+    font-size: 41px;
+    font-weight: 2;
+}
 
